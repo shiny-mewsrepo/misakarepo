@@ -2,10 +2,10 @@
     "RepositoryName": "ShinyMewsRepo",
     "RepositoryDescription": "Just a few tweaks me and HackZy made. Special thanks to Hackzy for helping me out with the tweaks and website.",
     "RepositoryAuthor": "ShinyMew",
-    "RepositoryIcon": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/icon.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/icon.png",
     "RepositoryWebsite": "http://mewswebsite.ourfgames.com",
     "Default":{
-        "HeaderImage": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/header.png",
+        "HeaderImage": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/header.png",
         "ViewCount": true
     },
     "RepositoryContents": [
@@ -29,14 +29,14 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/com.mew.tetris/icon.png",
+            "Icon": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/com.mew.tetris/icon.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/assets/com.mew.tetris/Screenshot.png"
+            "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/com.mew.tetris/Screenshot.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/lushaosalt/mewswebsite/main/misakatweaks/com.mew.tetris.misaka",
+                    "Package": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/com.mew.tetris.misaka",
                     "Description": "1st Relase, woohoo!"
                 }
             ],
