@@ -63,14 +63,14 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/com.mew.tetris/icon.png",
+            "Icon": "https://github.com/lushaosalt/misakarepo/blob/main/misakatweaks/assets/com.mew.ninjaction/ninja-action.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/com.mew.tetris/Screenshot.png"
+            "https://github.com/lushaosalt/misakarepo/blob/main/misakatweaks/assets/com.mew.ninjaction/IMG_4793.PNG"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/com.mew.tetris.misaka",
+                    "Package": "https://github.com/lushaosalt/misakarepo/blob/main/misakatweaks/com.mew.ninjaction.misaka",
                     "Description": "1st Relase, woohoo!"
                 }
             ],
