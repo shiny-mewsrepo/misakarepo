@@ -74,6 +74,37 @@
                 }
             ],
             "PackageID": "com.mew.ninjaction"
-        }
+        },
+        {
+"Name": "Arial Black 24%",
+            "Description": "The font Arial Black on 24% on your iPhone!",
+            "Category": "None",
+            "Caption": "Replaces the Font on your iPhone with the font Arial Black 24%",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "ShinyMew",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://github.com/lushaosalt/"
+                    },
+                    {
+                        "Label": "SoundCloud",
+                        "Link": "https://soundcloud.com/lushaoonyt"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/com.mew.arialblack24/Unknown-4.jpeg",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/assets/com.mew.arialblack24/IMG_4795.PNG"
+            ],
+            "Releases": [
+                {
+                  "Version": "1.0",
+                  "Package": "https://raw.githubusercontent.com/lushaosalt/misakarepo/main/misakatweaks/com.mew.arialblack24.misaka",
+                  "Description": "3rd Tweak!"
+                    }
     ]
 }
+
