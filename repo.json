@@ -41,10 +41,9 @@
                 }
             ],
             "PackageID": "com.mew.tetris"
-        }
-    ]
-}
- "Name": "Ninja Legal Notice",
+        },
+        {
+            "Name": "Ninja Legal Notice",
             "Description": "A Ninja Game in your Settings!",
             "Category": "Games",
             "Caption": "Replaces the Legal Notice entry in the settings with a game about a ninja.",
@@ -69,13 +68,12 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
-                    "Package": "https://github.com/lushaosalt/misakarepo/blob/main/misakatweaks/com.mew.ninjaction.misaka",
-                    "Description": "1st Relase, woohoo!"
+                  "Version": "1.0",
+                  "Package": "https://github.com/lushaosalt/misakarepo/blob/main/misakatweaks/com.mew.ninjaction.misaka",
+                  "Description": "1st Relase, woohoo!"
                 }
             ],
             "PackageID": "com.mew.ninjaction"
-            
-            }
+        }
     ]
 }
