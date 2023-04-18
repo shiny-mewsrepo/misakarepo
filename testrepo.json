@@ -79,7 +79,7 @@
                 "Name": "Arial Black 24",
                 "Description": "Change your system font!",
                 "Category": "Fonts",
-                "Caption": "Replaces your system font with Arial Black 24!!",
+                "Caption": "Replaces your iPhone's font with Arial Black 24.",
                 "MinIOSVersion": "15.0",
                 "MaxIOSVersion": "16.1.2",
                 "Author": {
