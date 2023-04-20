@@ -11,7 +11,7 @@
     "RepositoryContents": [
         {
             "Name": "Tetris Legal Notice",
-            "Description": "Tetriminos in your Settings!",
+            "Description": "Tetriminos in your Settings! Credits to HackZy And SeanMC!",
             "Category": "Games",
             "Caption": "Replaces the Legal Notice entry in the settings with Tetris",
             "MinIOSVersion": "15.0",
@@ -44,7 +44,7 @@
         },
         {
             "Name": "Ninja Legal Notice",
-            "Description": "A Ninja Game in your Settings!",
+            "Description": "A Ninja Game in your Settings! Credits to HackZy and SeanMC!",
             "Category": "Games",
             "Caption": "Replaces the Legal Notice entry in the settings with a game about a ninja.",
             "MinIOSVersion": "15.0",
